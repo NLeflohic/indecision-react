@@ -40,7 +40,6 @@ class IndecisionApp extends React.Component {
       Math.random() * this.state.optionsArray.length
     );
     const option = this.state.optionsArray[randomNum];
-    console.log(option);
     this.setState(() => ({
       selectedOption: option
     }));
