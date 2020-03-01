@@ -2,7 +2,7 @@
 Simple React web-app.
 Basically a todo-list, where the computer choose for you the task to achieve.
 
-<p align="center"><img src="https://media.giphy.com/media/M9O3sH1Ib4E76IlI5c/source.gif" alt="demo"/></p>
+![](https://media.giphy.com/media/M9O3sH1Ib4E76IlI5c/giphy.gif)
 
 ## Usage
 
