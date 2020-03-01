@@ -28,4 +28,4 @@ $ yarn run dev-server
 # or
 $ npm run dev-server
 ```
-Open your favorite web-browswer and fill the url : localhost:8080/
+Open your favorite web-browser and fill the url : localhost:8080/
